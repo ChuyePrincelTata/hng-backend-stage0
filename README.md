@@ -17,8 +17,8 @@ A RESTful API that returns profile information with dynamic cat facts.
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/backend-stage0.git
-cd backend-stage0
+git clone https://github.com/ChuyePrincelTata/hng-backend-stage0.git
+cd hng-backend-stage0
 
 # Install dependencies
 npm install
@@ -33,8 +33,8 @@ npm start
 {
   "status": "success",
   "user": {
-    "email": "your.email@example.com",
-    "name": "Your Full Name",
+    "email": "princelychuye@gmail.com",
+    "name": "Chuye Princely Tata",
     "stack": "Node.js/Express"
   },
   "timestamp": "2025-10-19T14:30:00.000Z",
@@ -44,7 +44,7 @@ npm start
 
 ## 👤 Author
 
-**Your Name** - your.email@example.com
+**Chuye Princely Tata** - princelychuye@gmail.com
 
 ---
 
